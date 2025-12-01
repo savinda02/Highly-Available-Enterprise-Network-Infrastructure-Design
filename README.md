@@ -3,7 +3,7 @@
 This project demonstrates the design and implementation of a scalable, high-availability network infrastructure for a multi-branch organization using **Cisco Packet Tracer**.
 
 ## 📌 Project Overview
-The network connects a **Head Office ** in Colombo with two branches:
+The network connects a **Head Office** in Colombo with two branches:
 - **Kandy Branch:** Hybrid network with Wireless connectivity.
 - **Galle Branch:** Remote office connected via WAN.
 
